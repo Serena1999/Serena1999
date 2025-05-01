@@ -10,7 +10,7 @@
 
 - Codes For Numerical Methods for Physicists course: contains the codes that I have written for the university course "Numerical Methods For Phycists".
 
-- Serena1999.github.io: my personal website.
+- \url{Serena1999.github.io}: my personal website.
 
 #### Contacts:
 
