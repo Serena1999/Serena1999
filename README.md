@@ -6,6 +6,8 @@
 
 - Secondary interests: particle detection systems, other computational analysis.
 
+- [Serena1999.github.io](https://serena1999.github.io/): my personal website.
+
 #### Upcoming projects that I will publish soon:
 
 - Codes For Numerical Methods for Physicists course: contains the codes that I have written for the university course "Numerical Methods For Phycists".
@@ -13,7 +15,3 @@
 #### Contacts:
 
 - email: bruzzesi.serena@gmail.com
-
-#### Info:
-
-- [Serena1999.github.io](https://serena1999.github.io/): my personal website.
